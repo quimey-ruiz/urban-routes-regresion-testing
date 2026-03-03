@@ -1,0 +1,7 @@
+Análisis del Proyecto
+Durante la ejecución de las pruebas de regresión, se identificaron comportamientos inconsistentes en la actualización de precio 
+y duración al cambiar entre distintos modos de transporte.
+También se detectaron problemas menores de interfaz relacionados con la selección visual de los íconos
+y la persistencia del estado seleccionado.
+El análisis permitió confirmar que, si bien las funcionalidades principales se mantenían estables, 
+existían oportunidades de mejora en la experiencia de usuario y en la validación de entradas inválidas.
